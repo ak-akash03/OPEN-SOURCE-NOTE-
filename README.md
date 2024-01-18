@@ -1,21 +1,18 @@
 # OPEN-SOURCE-NOTE
 
 How to start contributing to Open Source projects on GitHub
-#
-tutorial
-#
-opensource
-#
-github
-#
-programming
+#tutorial
+#opensource
+#github
+#programming
+
 The software industry is unique in its reliance on open source projects. What started as a model that defied economic theory, has become the lifeblood of one of the most efficient and powerful technological spaces.
 
 As such, contributing to open source projects is not just a great way to improve your coding chops, but also is an important part of giving back to the open source community which we rely on so heavily.
 
 Contributing is not limited to coding, writing documentation, translations, and even simply informing about a bug that will count towards the betterment of the project. In this tutorial, we’ll be going over how you can get started contributing to open source projects on Github.
 
-Step 1: Fork the desired project
+# Step 1: Fork the desired project
 Now, You can’t simply download the project, make some modifications and upload the changes to an open-source project. There is a specific workflow one should follow when contributing to a project in GitHub. So let's look at the correct way to contribute. We will be using the GitHub first-contributions repository in this tutorial.
 
 Forking will create a copy of the project in your own GitHub account. It allows the users to make any changes to the code while ensuring that these changes do not affect the original repository. Simply click the Fork button on the project repository.
