@@ -1,4 +1,4 @@
-# OPEN-SOURCE-NOTE
+# OPEN-SOURCE-CONTRIBUTION-NOTE
 
 How to start contributing to Open Source projects on GitHub
 #tutorial
